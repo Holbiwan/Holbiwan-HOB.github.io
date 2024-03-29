@@ -32,7 +32,8 @@ Feel free to connect with me and follow our journey:
 - [GitHub](https://github.com/Holbiwan/House-of-Bliss_eShop.git)
 - [Twitter](@Holbiwan_Place)
 
-Link to my page House Of Bliss  ... 
+
+Link to my landing page [House Of Bliss](https://holbiwan.github.io/).
 
 ## License
 MIT License.
