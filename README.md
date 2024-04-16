@@ -33,8 +33,6 @@ Feel free to connect with me and follow our journey:
 - [Twitter](@Holbiwan_Place)
 
 
-Link to my landing page [House Of Bliss](https://holbiwan.github.io/).
-
 ## License
 MIT License.
 
