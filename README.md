@@ -8,7 +8,7 @@ Every product offers a symphony of pure ingredients and harmonious scents, metic
 Emphasizing holistic practices, all promote a balanced lifestyle, complementing traditional wellness routines with the therapeutic virtues of aromatherapy.
 Join me on this journey to tranquility, where every scent is an invitation to a peaceful retreat from the bustle of daily life.
 
-### Link to my landing page : https://holbiwan.github.io/Holbiwan-HOB.github.io/
+### Link to my landing page : https://holbiwan.github.io/Holbiwan-TheHOB.github.io/
 
 
 # Feature Section
